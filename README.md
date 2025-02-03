@@ -1,2 +1,2 @@
-# CardDeProjetos
-Site em JavaScript com cards mostrando meus projetos, podendo navegar no link do card para entrar no site da aplicação.
+## Site com cards que armazenam alguns dos meus projetos
+https://ericaprojects.vercel.app/
